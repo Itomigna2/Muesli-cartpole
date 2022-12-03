@@ -5,17 +5,7 @@ import torch.nn.functional as F
 from torch.distributions import Categorical
 import matplotlib.pyplot as plt
 import numpy as np
-'''
-!pip install gym[classic_control]
-!pip install gym[box2d] #for lunarlander
-!apt update
-!apt install xvfb
-!pip install pyvirtualdisplay
-!pip install gym-notebook-wrapper
-import gnwrapper
-!nvidia-smi
-print(torch.cuda.is_available())
-'''
+
 ##########################
 ##Representation Network
 ##input : raw input
