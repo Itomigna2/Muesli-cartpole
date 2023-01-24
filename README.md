@@ -3,7 +3,7 @@
 This repository is deprecated. I am working now on https://github.com/Itomigna2/Muesli-lunarlander 
 
 ## Links
-Colab demo link : https://colab.research.google.com/drive/1lckCJbZAUgUMhGMtb-v9IZb4QrQYhGSM?usp=sharing
+Colab demo link : https://colab.research.google.com/drive/19qTIgLvevkc5TA9zNjaS5lILWofGvZPJ?usp=sharing
 
 Muesli paper link : https://arxiv.org/abs/2104.06159
 
